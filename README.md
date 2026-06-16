@@ -55,7 +55,7 @@ I enjoy continuously learning modern technologies and turning complex ideas into
 
 ### ☁️ Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,githubactions,linux,ci/cd pipelines" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,githubactions,linux" />width="48"/>
 </p>
 
 ### 🤖 AI / ML / Data
