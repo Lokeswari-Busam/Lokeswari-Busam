@@ -9,8 +9,8 @@ Building scalable enterprise applications, intelligent software solutions, and c
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/Lokeswari-Busam">
+    <img src="https://komarev.com/ghpvc/?username=Lokeswari-Busam&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
   </a>
 </p>
 
@@ -176,7 +176,11 @@ Every project has been a step toward becoming a stronger engineer capable of bui
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lokeswari-Busam&theme=tokyonight" height="180"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lokeswari-Busam&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokeswari-Busam&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
@@ -185,7 +189,7 @@ Every project has been a step toward becoming a stronger engineer capable of bui
 
 <div align="center">
 
-![snake gif](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Lokeswari-Busam/Lokeswari-Busam/blob/output/github-snake-dark.svg)
 
 </div>
 
@@ -207,7 +211,7 @@ Every project has been a step toward becoming a stronger engineer capable of bui
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/Lokeswari-Busam">
   <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -216,7 +220,6 @@ Every project has been a step toward becoming a stronger engineer capable of bui
 </a>
 
 </p>
-
 <!--
 **Lokeswari-Busam/Lokeswari-Busam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
