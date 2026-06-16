@@ -6,7 +6,7 @@ Software Engineer | Full Stack Developer | Java Spring Boot | React.js | Next.js
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I’m a Software Engineer passionate about building modern applications that combine backend engineering, cloud technologies, and AI-driven solutions to solve real-world business problems.
 
@@ -14,60 +14,60 @@ My journey started with Python, Java, and Full Stack Development, and gradually 
 
 Currently, I focus on:
 
-- 💻 Full Stack Application Development
-- ⚙️ Backend Engineering & REST API Development
-- ☁️ Cloud Deployment & DevOps Practices
-- 🔐 Authentication, Authorization & RBAC Systems
-- 🤖 AI, NLP & Generative AI Applications
-- 📊 Data Analytics & Business Intelligence
-- 🏗️ Building scalable systems with clean architecture principles
+-  Full Stack Application Development
+-  Backend Engineering & REST API Development
+-  Cloud Deployment & DevOps Practices
+-  Authentication, Authorization & RBAC Systems
+-  AI, NLP & Generative AI Applications
+-  Data Analytics & Business Intelligence
+-  Building scalable systems with clean architecture principles
 
 I enjoy continuously learning modern technologies and turning complex ideas into practical, production-ready solutions.
 
 ---
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 💻 Languages
+###  Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,javascript" />
 </p>
 
-### ⚡ Backend & Frameworks
+###  Backend & Frameworks
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,spring,django" />
 </p>
 
-### 🌐 Frontend & UI
+###  Frontend & UI
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
 </p>
 
-### 🗄️ Databases
+###  Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgresql"/>
 </p>
 
-### ☁️ Cloud & DevOps
+###  Cloud & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,git,githubactions,linux"/>
 </p>
 
-### 🤖 AI / ML / Data
+###  AI / ML / Data
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48"/>
 </p>
 
-### 📊 Analytics & Visualization
+###  Analytics & Visualization
 <p>
   <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="48"/>
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="48"/>
 </p>
 
-### 🔧 Tools & Platforms
+###  Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,postman,"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="48"/>
@@ -76,7 +76,7 @@ I enjoy continuously learning modern technologies and turning complex ideas into
 
 ---
 
-## 💼 Engineering Experience & Impact
+##  Engineering Experience & Impact
 
 ### 🔹 Enterprise Application Development
 - Developed scalable full-stack applications using React.js, Next.js, FastAPI, and Spring Boot
@@ -112,29 +112,9 @@ I enjoy continuously learning modern technologies and turning complex ideas into
 - Implemented Prompt Engineering practices
 - Explored Retrieval-Augmented Generation (RAG) architectures
 - Built data-driven intelligent software applications
-
+  
 ---
-
-## 📚 Continuous Learning
-
-I strongly believe in learning by building.
-
-Over the years, I’ve explored:
-
-- Artificial Intelligence & Machine Learning
-- Backend Architecture
-- Cloud Infrastructure
-- DevOps & Automation
-- Data Engineering
-- NLP & Generative AI
-- System Design Concepts
-- Software Engineering Best Practices
-- Data Structures & Algorithms
-
-Every project has been a step toward becoming a stronger engineer capable of building scalable and intelligent systems.
-
----
-## 📫 Connect With Me
+##  Connect With Me
 
 <p align="left">
 
@@ -155,8 +135,27 @@ Every project has been a step toward becoming a stronger engineer capable of bui
 </a>
 
 </p>
+---
 
-## 🏆 Certifications & Learning
+##  Continuous Learning
+
+I strongly believe in learning by building.
+
+Over the years, I’ve explored:
+
+- Artificial Intelligence & Machine Learning
+- Backend Architecture
+- Cloud Infrastructure
+- DevOps & Automation
+- Data Engineering
+- NLP & Generative AI
+- System Design Concepts
+- Software Engineering Best Practices
+- Data Structures & Algorithms
+
+Every project has been a step toward becoming a stronger engineer capable of building scalable and intelligent systems.
+
+##  Certifications & Learning
 
 - Java Full Stack
 - Python Programming
