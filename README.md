@@ -50,12 +50,12 @@ I enjoy continuously learning modern technologies and turning complex ideas into
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" width="48"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql"/>
 </p>
 
 ### ☁️ Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,githubactions,linux" width="48"/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,githubactions,linux"/>
 </p>
 
 ### 🤖 AI / ML / Data
