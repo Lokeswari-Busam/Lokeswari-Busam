@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Busam Lokeswari</h1>
 
 <h3 align="center">
-Software Engineer | Full Stack Developer | Backend Engineer | AI & Cloud Enthusiast
+Software Engineer | Full Stack Developer | Java Spring Boot | React.js | Next.js | Cloud & DevOps | Python FastAPI | AI-Powered Solutions
 </h3>
 
-<p align="center">
-Building scalable enterprise applications, intelligent software solutions, and cloud-ready systems.
-</p>
+<h3 align="center">
+"Building scalable software solutions that bridge engineering excellence, cloud technologies, and intelligent systems."
+</h3>
 
 ---
 
@@ -50,12 +50,12 @@ I enjoy continuously learning modern technologies and turning complex ideas into
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />width="48"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" width="48"/>
 </p>
 
 ### ☁️ Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,githubactions,linux" />width="48"/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,githubactions,linux" width="48"/>
 </p>
 
 ### 🤖 AI / ML / Data
@@ -157,7 +157,6 @@ Every project has been a step toward becoming a stronger engineer capable of bui
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lokeswari-Busam&theme=tokyonight" height="180"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lokeswari-Busam&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokeswari-Busam&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
@@ -173,9 +172,6 @@ Every project has been a step toward becoming a stronger engineer capable of bui
 
 ---
 
-<h3 align="center">
-"Building scalable software solutions that bridge engineering excellence, cloud technologies, and intelligent systems."
-</h3>
 
 ## 📫 Connect With Me
 
