@@ -4,10 +4,6 @@
 Software Engineer | Full Stack Developer | Java Spring Boot | React.js | Next.js | Cloud & DevOps | Python FastAPI | AI-Powered Solutions
 </h3>
 
-<h3 align="center">
-"Building scalable software solutions that bridge engineering excellence, cloud technologies, and intelligent systems."
-</h3>
-
 ---
 
 ## 🚀 About Me
@@ -74,8 +70,8 @@ I enjoy continuously learning modern technologies and turning complex ideas into
 ### 🔧 Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,postman," />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="48"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" />
 </p>
 
 ---
