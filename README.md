@@ -35,6 +35,165 @@ Currently, I focus on:
 I enjoy continuously learning modern technologies and turning complex ideas into practical, production-ready solutions.
 
 ---
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript" />
+</p>
+
+### ⚡ Backend & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,spring,django,flask" />
+</p>
+
+### 🌐 Frontend & UI
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48"/>
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,githubactions,linux" />
+</p>
+
+### 🤖 AI / ML / Data
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48"/>
+</p>
+
+### 🧠 AI Engineering
+<p>
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangSmith-121212?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-FF6B35?style=for-the-badge"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-2196F3?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Generative_AI-purple?style=for-the-badge"/>
+</p>
+
+### 📊 Analytics & Visualization
+<p>
+  <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="48"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="48"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/databricks.svg" width="48"/>
+</p>
+
+### 🔧 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="48"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="48"/>
+</p>
+
+---
+
+## 💼 Engineering Experience & Impact
+
+### 🔹 Enterprise Application Development
+- Developed scalable full-stack applications using React.js, Next.js, FastAPI, and Spring Boot
+- Designed and integrated RESTful APIs supporting enterprise workflows and business operations
+- Built responsive user interfaces focused on performance, usability, and accessibility
+- Developed secure database-driven applications with relational data modeling
+- Collaborated in Agile teams using Git, Jira, ClickUp, and modern software development practices
+
+### 🔹 Backend Engineering & API Development
+- Designed backend architectures using Python FastAPI and Java Spring Boot
+- Built scalable API ecosystems for enterprise applications
+- Implemented CRUD operations, validations, and relational database integrations
+- Optimized application performance through efficient query design and clean architecture
+- Focused on maintainability, scalability, and software quality
+
+### 🔹 Security & Workflow Automation
+- Implemented Role-Based Access Control (RBAC) systems
+- Automated onboarding and business workflow processes
+- Integrated enterprise tools and third-party services
+- Developed secure access management and authorization systems
+- Enhanced organizational efficiency through automation-driven solutions
+
+### 🔹 Cloud, DevOps & Deployment
+- Worked with AWS cloud services including EC2 and S3
+- Managed deployments in Linux-based environments
+- Utilized GitHub Actions for CI/CD automation
+- Contributed to deployment and release management workflows
+- Focused on scalable infrastructure and production readiness
+
+### 🔹 AI & Intelligent Solutions
+- Applied NLP and Generative AI techniques to software solutions
+- Worked with machine learning workflows and data pipelines
+- Implemented Prompt Engineering practices
+- Explored Retrieval-Augmented Generation (RAG) architectures
+- Built data-driven intelligent software applications
+
+---
+
+## 📚 Continuous Learning
+
+I strongly believe in learning by building.
+
+Over the years, I’ve explored:
+
+- Artificial Intelligence & Machine Learning
+- Backend Architecture
+- Cloud Infrastructure
+- DevOps & Automation
+- Data Engineering
+- NLP & Generative AI
+- System Design Concepts
+- Software Engineering Best Practices
+- Data Structures & Algorithms
+
+Every project has been a step toward becoming a stronger engineer capable of building scalable and intelligent systems.
+
+---
+
+## 🏆 Certifications & Learning
+
+- Java Full Stack
+- Python Programming
+- Python with AI/ML
+- Introduction to Cybersecurity
+- Internet of Things (IoT)
+- Introduction to Soft Computing
+- Full Stack Python
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+![snake gif](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-snake-dark.svg)
+
+</div>
+
+---
+
+<h3 align="center">
+"Building scalable software solutions that bridge engineering excellence, cloud technologies, and intelligent systems."
+</h3>
 
 ## 📫 Connect With Me
 
