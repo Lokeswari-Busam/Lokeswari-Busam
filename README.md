@@ -8,12 +8,6 @@ Software Engineer | Full Stack Developer | Backend Engineer | AI & Cloud Enthusi
 Building scalable enterprise applications, intelligent software solutions, and cloud-ready systems.
 </p>
 
-<p align="center">
-  <a href="https://github.com/Lokeswari-Busam">
-    <img src="https://komarev.com/ghpvc/?username=Lokeswari-Busam&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -41,12 +35,12 @@ I enjoy continuously learning modern technologies and turning complex ideas into
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript" />
 </p>
 
 ### ⚡ Backend & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,spring,django,flask" />
+  <img src="https://skillicons.dev/icons?i=fastapi,spring,django" />
 </p>
 
 ### 🌐 Frontend & UI
@@ -56,46 +50,30 @@ I enjoy continuously learning modern technologies and turning complex ideas into
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />width="48"/>
 </p>
 
 ### ☁️ Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,githubactions,linux" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,githubactions,linux,ci/cd pipelines" />
 </p>
 
 ### 🤖 AI / ML / Data
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48"/>
-</p>
-
-### 🧠 AI Engineering
-<p>
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangSmith-121212?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG-FF6B35?style=for-the-badge"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Prompt_Engineering-2196F3?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Generative_AI-purple?style=for-the-badge"/>
 </p>
 
 ### 📊 Analytics & Visualization
 <p>
   <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="48"/>
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="48"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/databricks.svg" width="48"/>
 </p>
 
 ### 🔧 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman," />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="48"/>
   <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="48"/>
 </p>
