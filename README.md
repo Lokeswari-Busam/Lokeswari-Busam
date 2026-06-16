@@ -69,9 +69,9 @@ I enjoy continuously learning modern technologies and turning complex ideas into
 
 ### 🔧 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman," />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="48"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="48"/>
 </p>
 
 ---
@@ -134,6 +134,27 @@ Over the years, I’ve explored:
 Every project has been a step toward becoming a stronger engineer capable of building scalable and intelligent systems.
 
 ---
+## 📫 Connect With Me
+
+<p align="left">
+
+<a href="mailto:lokeswaribusam216@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/busamlokeswari/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Lokeswari-Busam">
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME">
+  <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
 
 ## 🏆 Certifications & Learning
 
@@ -157,39 +178,6 @@ Every project has been a step toward becoming a stronger engineer capable of bui
 </p>
 
 ---
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-![snake gif](https://github.com/Lokeswari-Busam/Lokeswari-Busam/blob/output/github-snake-dark.svg)
-
-</div>
-
----
-
-
-## 📫 Connect With Me
-
-<p align="left">
-
-<a href="mailto:lokeswaribusam216@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/busamlokeswari/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Lokeswari-Busam">
-  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME">
-  <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</p>
 <!--
 **Lokeswari-Busam/Lokeswari-Busam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
