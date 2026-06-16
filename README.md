@@ -4,6 +4,7 @@
 Software Engineer | Full Stack Developer | Java Spring Boot | React.js | Next.js | Cloud & DevOps | Python FastAPI | AI-Powered Solutions
 </h3>
 
+---
 
 ##  About Me
 
@@ -24,8 +25,6 @@ Currently, I focus on:
 I enjoy continuously learning modern technologies and turning complex ideas into practical, production-ready solutions.
 
 ---
----
-
 ##  Tech Stack
 
 ###  Languages
